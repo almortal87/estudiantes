@@ -1,5 +1,7 @@
-package org.etudiante;
+package org.estudiante;
+import lombok.Data;
 
+@Data
 public class Estudiante {
 
     private int StudentID;
